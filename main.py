@@ -1,2 +1,1 @@
-print("Dharan git test")
-print(kj)
+print("THIS AZURE MIGRATION tesing")
